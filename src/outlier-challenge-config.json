@@ -1,0 +1,8 @@
+{
+    "team_name": "BoringTeamName",
+    "method_description": "VAE",
+    "data_types": "Mesh, segmentation, image or a hybrid",
+    "data_dir": "data",
+    "result_dir": "results",
+    "challenge_server":  "http://fungi.compute.dtu.dk:8080"
+}
